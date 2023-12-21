@@ -1,0 +1,11 @@
+edu/uoc/epcsd/notification/kafka/ProductMessage$ProductMessageBuilder.class
+edu/uoc/epcsd/notification/kafka/ProductMessage.class
+edu/uoc/epcsd/notification/services/NotificationService$1.class
+edu/uoc/epcsd/notification/rest/dtos/GetUserResponse$GetUserResponseBuilder.class
+edu/uoc/epcsd/notification/RestTemplateConfig.class
+edu/uoc/epcsd/notification/NotificationApplication.class
+edu/uoc/epcsd/notification/kafka/KafkaClassListener.class
+edu/uoc/epcsd/notification/rest/dtos/GetUserResponse.class
+edu/uoc/epcsd/notification/services/NotificationService.class
+edu/uoc/epcsd/notification/kafka/KafkaConsumerConfig.class
+edu/uoc/epcsd/notification/kafka/KafkaConstants.class

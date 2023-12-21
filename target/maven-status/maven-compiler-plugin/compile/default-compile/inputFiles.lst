@@ -1,0 +1,8 @@
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-notification-improved/src/main/java/edu/uoc/epcsd/notification/NotificationApplication.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-notification-improved/src/main/java/edu/uoc/epcsd/notification/kafka/KafkaConsumerConfig.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-notification-improved/src/main/java/edu/uoc/epcsd/notification/kafka/ProductMessage.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-notification-improved/src/main/java/edu/uoc/epcsd/notification/rest/dtos/GetUserResponse.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-notification-improved/src/main/java/edu/uoc/epcsd/notification/kafka/KafkaConstants.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-notification-improved/src/main/java/edu/uoc/epcsd/notification/RestTemplateConfig.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-notification-improved/src/main/java/edu/uoc/epcsd/notification/services/NotificationService.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-notification-improved/src/main/java/edu/uoc/epcsd/notification/kafka/KafkaClassListener.java
